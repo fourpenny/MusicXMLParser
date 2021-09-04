@@ -7,9 +7,9 @@ Download the "mxml_parser.py" file from this repo, then add it to your project d
 
 ## Features
 The Score object stores the following data:
--The work's title
--The work's composer
--The work's instruments
--The number of occurances of each pitch class
+- The work's title
+- The work's composer
+- The work's instruments
+- The number of occurances of each pitch class
 
 Feel free to make a pull request if you would like to contribute any new features!
